@@ -8,3 +8,5 @@ Machine Learning: https://github.com/vaishnavipatil29/Emotion-Detection-/blob/ma
 
 
 Deep Learning: https://github.com/vaishnavipatil29/Emotion-Detection-/blob/main/CNN_Emotion_detection.ipynb
+
+Transfer Learning Models: VGG and Resnet 50.
